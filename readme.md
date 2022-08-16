@@ -1,6 +1,7 @@
 # Frontend Capstone     
 
 ## General Guidelines    
+Deployment Url https://linkedin-clone-a1i21.vercel.app/
 
 ### Github      
 - you need to have clean commits ( clear name, small commits, 3 at least everyday)      
